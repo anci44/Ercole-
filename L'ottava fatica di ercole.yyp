@@ -1,0 +1,45 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "L'ottava fatica di ercole",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 0,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprite","folderPath":"folders/Sprite.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tileset","folderPath":"folders/Tileset.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Suoni","folderPath":"folders/Suoni.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Percorsi","folderPath":"folders/Percorsi.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Script","folderPath":"folders/Script.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shader","folderPath":"folders/Shader.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Font","folderPath":"folders/Font.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timeline","folderPath":"folders/Timeline.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Oggetti","folderPath":"folders/Oggetti.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Stanze","folderPath":"folders/Stanze.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sequenze","folderPath":"folders/Sequenze.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Curve di animazione","folderPath":"folders/Curve di animazione.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Note","folderPath":"folders/Note.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Estensioni","folderPath":"folders/Estensioni.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.2.0.71",
+  },
+  "resources": [
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}

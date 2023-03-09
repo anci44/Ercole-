@@ -1,0 +1,20 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Sprite","order":1,"path":"folders/Sprite.yy",},
+    {"name":"Tileset","order":2,"path":"folders/Tileset.yy",},
+    {"name":"Suoni","order":3,"path":"folders/Suoni.yy",},
+    {"name":"Percorsi","order":4,"path":"folders/Percorsi.yy",},
+    {"name":"Script","order":5,"path":"folders/Script.yy",},
+    {"name":"Shader","order":6,"path":"folders/Shader.yy",},
+    {"name":"Font","order":7,"path":"folders/Font.yy",},
+    {"name":"Timeline","order":8,"path":"folders/Timeline.yy",},
+    {"name":"Oggetti","order":9,"path":"folders/Oggetti.yy",},
+    {"name":"Stanze","order":10,"path":"folders/Stanze.yy",},
+    {"name":"Sequenze","order":11,"path":"folders/Sequenze.yy",},
+    {"name":"Curve di animazione","order":12,"path":"folders/Curve di animazione.yy",},
+    {"name":"Note","order":13,"path":"folders/Note.yy",},
+    {"name":"Estensioni","order":14,"path":"folders/Estensioni.yy",},
+    {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+  ],
+  "ResourceOrderSettings": [],
+}
