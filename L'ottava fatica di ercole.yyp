@@ -34,6 +34,8 @@
     "IDEVersion": "2023.2.0.71",
   },
   "resources": [
+    {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
+    {"id":{"name":"interior_free","path":"sprites/interior_free/interior_free.yy",},},
     {"id":{"name":"pg_ercole","path":"objects/pg_ercole/pg_ercole.yy",},},
     {"id":{"name":"Ercole","path":"sprites/Ercole/Ercole.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},

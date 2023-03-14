@@ -15,5 +15,7 @@
     {"name":"Tileset","order":1,"path":"folders/Tileset.yy",},
     {"name":"Timeline","order":7,"path":"folders/Timeline.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"interior_free","order":1,"path":"sprites/interior_free/interior_free.yy",},
+  ],
 }
