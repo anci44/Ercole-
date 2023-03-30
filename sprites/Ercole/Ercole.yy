@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "Ercole",
-  "bbox_bottom": 23,
+  "bbox_bottom": 31,
   "bbox_left": 1,
-  "bbox_right": 22,
+  "bbox_right": 30,
   "bbox_top": 1,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -20,7 +20,7 @@
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 24,
+  "height": 32,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"2f2bfcd2-1a9e-4d2f-8951-56647c652033","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
@@ -76,5 +76,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 24,
+  "width": 32,
 }

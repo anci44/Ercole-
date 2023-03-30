@@ -1,11 +1,11 @@
 {
   "FolderOrderSettings": [
     {"name":"Curve di animazione","order":11,"path":"folders/Curve di animazione.yy",},
-    {"name":"Estensioni","order":14,"path":"folders/Estensioni.yy",},
+    {"name":"Estensioni","order":13,"path":"folders/Estensioni.yy",},
     {"name":"Font","order":6,"path":"folders/Font.yy",},
     {"name":"Note","order":12,"path":"folders/Note.yy",},
     {"name":"Oggetti","order":8,"path":"folders/Oggetti.yy",},
-    {"name":"Particle Systems","order":13,"path":"folders/Particle Systems.yy",},
+    {"name":"Particle Systems","order":14,"path":"folders/Particle Systems.yy",},
     {"name":"Percorsi","order":3,"path":"folders/Percorsi.yy",},
     {"name":"Script","order":4,"path":"folders/Script.yy",},
     {"name":"Sequenze","order":10,"path":"folders/Sequenze.yy",},
@@ -14,8 +14,18 @@
     {"name":"Suoni","order":2,"path":"folders/Suoni.yy",},
     {"name":"Tileset","order":1,"path":"folders/Tileset.yy",},
     {"name":"Timeline","order":7,"path":"folders/Timeline.yy",},
+    {"name":"Menu","order":1,"path":"folders/Sprite/Menu.yy",},
+    {"name":"Menu","order":5,"path":"folders/Oggetti/Menu.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"interior_free","order":1,"path":"sprites/interior_free/interior_free.yy",},
+    {"name":"Sptr_opt","order":3,"path":"sprites/Sptr_opt/Sptr_opt.yy",},
+    {"name":"Obj_b_Options","order":1,"path":"objects/Obj_b_Options/Obj_b_Options.yy",},
+    {"name":"Sprite4","order":2,"path":"sprites/Sprite4/Sprite4.yy",},
+    {"name":"Sprite3","order":1,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Rm_Menu","order":3,"path":"rooms/Rm_Menu/Rm_Menu.yy",},
+    {"name":"Rm_Game","order":2,"path":"rooms/Rm_Game/Rm_Game.yy",},
+    {"name":"BackGround","order":4,"path":"sprites/BackGround/BackGround.yy",},
+    {"name":"Obj_b_Quit","order":3,"path":"objects/Obj_b_Quit/Obj_b_Quit.yy",},
+    {"name":"Obj_b_Play","order":2,"path":"objects/Obj_b_Play/Obj_b_Play.yy",},
   ],
 }
