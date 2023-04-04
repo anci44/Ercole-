@@ -20,6 +20,7 @@
   "ResourceOrderSettings": [
     {"name":"Sptr_opt","order":3,"path":"sprites/Sptr_opt/Sptr_opt.yy",},
     {"name":"Obj_b_Options","order":1,"path":"objects/Obj_b_Options/Obj_b_Options.yy",},
+    {"name":"sprite_Ercoles_room","order":2,"path":"sprites/sprite_Ercoles_room/sprite_Ercoles_room.yy",},
     {"name":"Sprite4","order":2,"path":"sprites/Sprite4/Sprite4.yy",},
     {"name":"Sprite3","order":1,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"Rm_Menu","order":3,"path":"rooms/Rm_Menu/Rm_Menu.yy",},
